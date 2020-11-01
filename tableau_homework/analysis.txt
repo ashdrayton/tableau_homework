@@ -1,0 +1,12 @@
+Phenomenon 1: The first week of the month had a signifigantly lower amount of users than the rest of the period. 
+This is shown by subscibers only taking 100,000 trips during the first week and then 459,000 the following week.
+This higher amount of users during the laters weeks shows that the subscribers are not travelling as far as the 
+customers, as the average trip duration drops once the number of subscribers increases.
+
+
+Phenomenon 2: Males are traveling by bike at a much higher amount than women. Despite similar average age between
+ the genders, women are traveling an extra 3minutes per average
+
+Map trends: Majority of the most visits stations were on the west of the main island, close to the river.
+Stations to the north were alternatively quite low in visitation as well as in the far south areas. It can be 
+assumed that a majority of bike users live in or begin their journey closer to the middle of the city.
